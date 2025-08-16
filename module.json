@@ -1,0 +1,27 @@
+{
+  "id": "plexi-twodsix",
+  "title": "PlexiTweaks - Twodsix",
+  "description": "Custom CSS and sheet tweaks for the Twodsix system, tailored by PlexiStan.",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "PlexiStan",
+      "url": "https://github.com/QBallStan",
+      "discord": "plexistan"
+    }
+  ],
+  "scripts": [],
+  "styles": [
+    "styles/plexi.css"
+  ],
+  "esmodules": ["main.js"],
+  "languages": [],
+  "packs": [],
+  "url": "https://github.com/QBallStan/plexi-twodsix",
+  "manifest": "https://github.com/QBallStan/plexi-twodsix/releases/latest/download/module.json",
+  "download": "https://github.com/QBallStan/plexi-twodsix/releases/latest/download/plexi-twodsix.zip"
+}
